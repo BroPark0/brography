@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppPlugin>
+    <AppInfo
+        description_resource="@string/description"
+        icon_resource="@drawable/ic_launcher_foreground"
+        name_resource="@string/label"
+        version="2.0"
+        category="1001"
+        />
+
+    <ActionInfo
+        class_name="com.nable.rcs_test_v20.MainActivity"
+        extra_data="EXTRA_KEY_PHONE_NUMBER|EXTRA_KEY_FROM_MESSAGE_APP|EXTRA_KEY_PLUGIN_VERSION|EXTRA_BANK_ACCOUNT"
+        package_name="com.nable.rcs_test_v20"
+        />
+
+</AppPlugin>

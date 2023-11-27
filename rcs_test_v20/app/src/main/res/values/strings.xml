@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">rcs_test_v2.0</string>
+    <string name="description">description_resource</string>
+    <string name="label">rcs_test_app</string>
+
+
+
+
+    <string-array name="category">category
+        <item>1000</item>
+        <item>1001</item>
+        <item>1002</item>
+        <item>1003</item>
+        <item>1004</item>
+        <item>1005</item>
+        <item>1006</item>
+    </string-array>
+
+</resources>
